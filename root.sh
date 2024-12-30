@@ -18,9 +18,9 @@ fi
 if [ ! -e $ROOTFS_DIR/.installed ]; then
   echo "#######################################################################################"
   echo "#"
-  echo "#                                      Foxytoux INSTALLER"
+  echo "#                                      Root cracker"
   echo "#"
-  echo "#                           Copyright (C) 2024, RecodeStudios.Cloud"
+  echo "#                           Copyright (C) 2024, Cracked by Stupedo"
   echo "#"
   echo "#"
   echo "#######################################################################################"
